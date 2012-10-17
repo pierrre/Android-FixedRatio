@@ -1,0 +1,9 @@
+﻿#Android
+/*/bin
+/*/gen
+
+#Eclipse
+/*/.settings
+
+#Mac OS X
+.DS_Store

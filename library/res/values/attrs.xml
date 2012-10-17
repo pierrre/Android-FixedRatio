@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="FixedRatioView">
+        <attr name="ratio" format="float" />
+        <attr name="ratio_horizontal" format="integer" />
+        <attr name="ratio_vertical" format="integer" />
+        <attr name="resize_policy">
+            <enum name="crop" value="1" />
+            <enum name="fit" value="2" />
+            <enum name="width" value="3" />
+            <enum name="height" value="4" />
+        </attr>
+    </declare-styleable>
+
+</resources>
